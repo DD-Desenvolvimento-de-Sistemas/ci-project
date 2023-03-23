@@ -1,0 +1,23 @@
+{
+  "name": "ci-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DD-Desenvolvimento-de-Sistemas/ci-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DD-Desenvolvimento-de-Sistemas/ci-project/issues"
+  },
+  "homepage": "https://github.com/DD-Desenvolvimento-de-Sistemas/ci-project#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "sonar-scanner": "^3.1.0"
+  }
+}
