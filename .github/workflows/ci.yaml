@@ -3,6 +3,7 @@ name: ci-project-sonar
 on:
   pull_request:
     branches:
+      - main
       - develop
 
 jobs:
